@@ -1,1 +1,1 @@
-# Plasma effect using Raylib gaming library.
+# Plasma effect using Raylib library.
